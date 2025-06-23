@@ -1,4 +1,4 @@
 # Java-Script
-Full  Java Script course is available here....
+complete in depth JS course
 </br>
 Author - Vishal Singh
